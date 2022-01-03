@@ -4,3 +4,16 @@ h1{
 span{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+p{
+    text-align: justify;
+}
